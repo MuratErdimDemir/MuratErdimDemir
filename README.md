@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @havhavHvH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me silverdog704@gmail.com
+# Murat Erdim Demir
 
-<!---
-havhavHvH/havhavHvH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Independent Product Builder | iOS Developer | Finance & Systems
+
+Building minimal, high-leverage software products focused on:
+- iOS & macOS Apps
+- Productivity Systems
+- Finance Tools
+- Algorithmic Trading Research
+- Behavioral Optimization
+
+## Current Projects
+- Focusyn — Habit & Discipline System
+- LedgerMini — Minimal Finance Tracker
+- ReturnMini — Return Deadline Tracker
+- WealthBar — Premium Portfolio Tracking
+
+## Core Skills
+SwiftUI • SwiftData • Product Design • App Store Deployment • Python • Trading Systems
+
+## Philosophy
+Build fast. Ship real products. Optimize relentlessly.
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/murat-erdim-demir-4660133a1/
+Email: muraterdimd@icloud.com
